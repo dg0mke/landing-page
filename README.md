@@ -5,6 +5,7 @@ Live preview: https://dg0mke.github.io/landing-page
 
 ## Acknowledgements
 [Image](https://pixabay.com/photos/auto-automobile-automotive-amg-2179220) in hero section by [Pexels](https://pixabay.com/users/pexels-2286921)
+
 Other images:
 * [Toyota Aygo](https://pixabay.com/photos/car-toyota-aygo-toyota-car-5606692) by [Cicero7](https://pixabay.com/users/cicero7-6229305)
 * [Range Rover](https://pixabay.com/photos/range-rover-off-road-england-2245374) by [mmisiutalhr](https://pixabay.com/users/mmisiutalhr-5154514)
